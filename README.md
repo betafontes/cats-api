@@ -1,19 +1,48 @@
-# Asynchronous Javascript
+<h1 align="center">Asynchronous Javascript</h1>
 
-This repository contains the practical activity of the "Asynchronous Javascript" Course, which is part of the [Digital Innovation One](https://digitalinnovation.one/).
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-### Exercise: API "catAPI"
+<br>
 
-In this activity I put into practice the introduction of my API's studies
+## 🚀 Tecnologias
 
-1. Use the `https://api.thecatapi.com/v1/images/search` API to make the method calls;
-2. Use your knowledge of DOM manipulation to create the image and activate the button click event!
+Esse repositório contém essas tais tecnologias :
 
-### Interacts with kittens:
-https://betafontes.github.io/cats-api/
+- HTML
+- CSS
+- JavaScript
 
-### Demo
+## 💻 Projeto
+
+Este repositório contém a atividade prática do Curso "Javascript Assíncrono", que faz parte do [Digital Innovation One](https://digitalinnovation.one/).
+
+### Exercício: API "catAPI"
+
+Nesta atividade coloquei em prática a introdução dos estudos de API
+
+1. Use a API `https://api.thecatapi.com/v1/images/search` para fazer as chamadas de método;
+2. Use seu conhecimento de manipulação de DOM para criar a imagem e ativar o evento de clique do botão!
+   
+
+## 🖼️ Layout
+
 ![image](https://user-images.githubusercontent.com/70981960/162594674-9c5b7af6-a1f8-4dc2-878e-e13cee11ea9e.png)
 
 
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+Feito com ♥ by betafontes :wave: 
 
